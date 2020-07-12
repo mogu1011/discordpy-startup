@@ -18,6 +18,10 @@ async def jiba_ID(ctx):
     await ctx.send('2152000')
     
 @bot.command()
+async def ジバニャン(ctx):
+    await ctx.send('2152000')
+
+@bot.command()
 async def ping(ctx):
     await ctx.send('pong')
 
