@@ -14,7 +14,7 @@ async def on_command_error(ctx, error):
 
 
 @bot.command()
-async def jiba(ctx):
+async def ジバニャン(ctx):
     await ctx.send('2152000')
     
 @bot.command()
